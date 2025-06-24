@@ -14,14 +14,14 @@
    - 현재 블록에 해당하는 정보를 담고 있는 환경 레코드,
    - 현재 블록의 부모는 누구인지, 그 부모를 참조하고 있는 외부환경참조가 있다.
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](./images/image.png)
+![alt text](./images/image-1.png)
+![alt text](./images/image-2.png)
 
 # 호이스팅이란
 
 1. 함수의 호이스팅은 함수의 선언문 전에 호출이 가능하게 해줌
 2. 함수의 선언문은 선언 이전에도 호출이 가능함
-   ![alt text](image-3.png)
+   ![alt text](./images/image-3.png)
 
 # 엄격모드(Strick mode)
